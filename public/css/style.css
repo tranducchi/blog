@@ -1,0 +1,104 @@
+*{
+	padding:0;
+	margin:0;
+}
+.card{
+	position: relative;
+}
+.card .more{
+	position: absolute;
+	left: 20px;
+	bottom: 0;
+}
+.article .card{
+	height: 213px;
+}
+.below .col-lg-9 {
+    padding: 0;
+}
+
+.des {
+    width: 100%;
+    height: 40px;
+    background: #007bff;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+
+.des .title-post {
+    line-height: 40px;
+    color: white;
+}
+
+.des {}
+
+.link-categories .container {
+    padding: 0;
+}
+
+.article .block-content {
+    padding: 10px 10px 0 20px;
+}
+
+.article img {
+    width: 100%;
+    height: 100%;
+}
+.login a{
+	float:left;
+	color:white;
+}
+.categories h4{
+	width:100%;
+}
+.article .img-description{
+	margin: 10px 0 10px 0px;
+	padding: 0;
+	padding-left: 21px;
+}
+.title-post{
+	font-size: 18px;
+	padding-left: 15px;
+}
+.content-post.container{
+	width:93%;
+	padding: 0;
+}
+.block-article{
+	background:white;
+}
+.author{
+	color:white;
+	line-height: 40px;
+	text-align: right;
+}
+.author i{
+	padding-right: 10px;
+}
+.item .one-card{
+	width: auto!important;
+}
+
+.card.one-card {
+    height: 250px;
+}
+.item .one-card img{
+	height:150px!important;
+}
+.footer {
+	padding: 20px;
+	background: #343a40;
+	color:white;
+	font-size: 13px;
+}
+.footer ul li a{
+	color:white;
+}
+.footer li{
+	list-style: none;
+	padding:10px;
+}
+.footer ul li{
+	float:left;
+	width: 50%;
+}
